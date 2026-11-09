@@ -14,7 +14,7 @@ window.CONFIG = {
   DATA_URL: "",
 
   // Shown to participants if their upload fails, so they can send the file.
-  RESEARCHER_CONTACT: "the researcher",
+  RESEARCHER_CONTACT: "Shreelekha B S, shreelekha.basavaraja@student.uts.edu.au",
 
   // Which cognitive task a participant gets (between-subjects, as in the lab
   // study). "balanced" asks the Apps Script for the task with fewer
