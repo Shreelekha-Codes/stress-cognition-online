@@ -11,7 +11,7 @@ window.CONFIG = {
   // Google Apps Script web-app URL (ends in /exec). See README → "Data
   // collection setup". Leave "" to run without uploading (data can still be
   // downloaded as JSON on the last screen — useful for piloting).
-  DATA_URL: "",
+  DATA_URL: "https://script.google.com/macros/s/AKfycbwwxBb0CKQxFpHnAyZeRXrcLJFRl73Rme-cQO6dAvlqTWHxZXwVZgKKwPMPEcfYSik-Ig/exec",
 
   // Shown to participants if their upload fails, so they can send the file.
   RESEARCHER_CONTACT: "Shreelekha B S, shreelekha.basavaraja@student.uts.edu.au",
